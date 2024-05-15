@@ -1,0 +1,8 @@
+#+title: Diseño de Estructuras Metálicas
+#+author: rvc
+#+todo: todo in-progress | done
+
+Implementación de las ecuaciones de diseño de Estructuras Metálicas en Python.
+
+LISTODO
+* todo imprimir la tabla de resistencia de diseño a cortante de pernos en uniones tipo aplastamiento
